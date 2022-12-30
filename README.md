@@ -10,10 +10,17 @@ cada vez mas feroz, ya que, han comenzado a utilizar el poder de este para destr
 de sus enemigos.
 POR EL EMPERADOR!!!!!
 
-Objetivos:
+Objetivos: 
+
 -Demo jugable, con inicio y final
+
 -Base para posterior mejora
+
 -Obtener mecanicas de fisicas y movimiento para mantener un gameplay dinamico y entretenido
+
 -Dificultad escalable
+
 -Diversion
+
 -Aprender sobre los videojuegos de disparos
+
