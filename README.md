@@ -1,4 +1,4 @@
-* Proyecto "Keep Fighting and nobody explodes" *
+* Proyecto "Keep Fighting and nobody explodes"
 
 Autor: Jano Nehuen Fernandez
 Fecha de creacion: 30/12/2022
